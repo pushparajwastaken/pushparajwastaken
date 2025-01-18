@@ -33,7 +33,7 @@ Here’s a snapshot of my public repositories:
 
 ## 🌐 Tech Stack
 
-- **Languages**: Python, JavaScript
+- **Languages**: Python, JavaScript,C++
 - **Tools**: Nginx
 - **Interests**: Web Development, Python Programming
 
@@ -41,8 +41,8 @@ Here’s a snapshot of my public repositories:
 
 ## ✨ Fun Facts
 
-- **Hobbies**: Exploring new technologies, contributing to open-source projects
-- **Favorite Quote**: "LEARNING!!!!!!!!!!!!!"
+- **Hobbies**: Exploring new technologies,Reading,Watching Sports and A Pop-Culture Enthusiast
+- **Favorite Quote**: "You miss 100% of the chances you don't take"
 
 ---
 

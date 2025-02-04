@@ -1,49 +1,35 @@
-# Hi there 👋
+# Hi there! 👋 I'm Pushparaj
 
-Welcome to my GitHub profile! I'm **Pushparaj Singh Parmar**, a student from Bhopal with varied interests, here to learn, read, and contribute.
+## 🚀 About Me
 
----
+I'm a passionate developer with a keen interest in frontend development, UI/UX design, and web technologies. I enjoy experimenting with CSS and JavaScript to create unique and engaging user interfaces.
 
-## 🌟 About Me
+- 🎨 Frontend Enthusiast | Specializing in custom UI components
+- 💡 Continuously exploring new CSS techniques and JavaScript frameworks
+- 🎯 Currently building a **repository of UI elements** like special cursors, buttons, and animations
 
-- 🎓 **Student**: Passionate about expanding my knowledge across various domains.
-- 🌱 **Learner**: Currently exploring web development and Python programming.
-- 🤝 **Collaborator**: Open to contributing to projects that make a difference.
+## 🛠️ Technologies & Tools
 
----
+- **Frontend:** HTML, CSS (Tailwind, SCSS), JavaScript (React, Vue)
+- **Backend:** Node.js, Express.js
+- **Version Control:** Git, GitHub
+- **Design:** Figma, Adobe XD
 
-## 🚀 Projects & Contributions
+## 📂 Featured Projects
 
-Here’s a snapshot of my public repositories:
+### 🎭 UI Components Library
+A collection of reusable frontend components, including custom buttons, animated cursors, and interactive UI elements.
+🔗 [Check it out](https://github.com/pushparajwastaken/UI-Components-Library)
 
-- **NGINX-SERVER**: A project involving NGINX server configurations and setups. [Repository Link](https://github.com/pushparajwastaken/NGINX-SERVER)
-- **Quiz App**: An interactive quiz application built with JavaScript. [Repository Link](https://github.com/pushparajwastaken/quiz-app)
-- **Small Projects**: A collection of small Python projects to understand the basics. [Repository Link](https://github.com/pushparajwastaken/small-projects)
-- **Weather App**: An application that fetches and displays the weather of a city. [Repository Link](https://github.com/pushparajwastaken/Weather-App)
-- **To-Do List**: A simple to-do list application to manage tasks. [Repository Link](https://github.com/pushparajwastaken/to-do-list)
-- **Expense Tracker**: An application to track expenses and manage budgets. [Repository Link](https://github.com/pushparajwastaken/expense-tracker)
+### 🌐 Interactive Quiz App
+A dynamic quiz platform built with React and Firebase for real-time engagement.
+🔗 [Repo](https://github.com/pushparajwastaken/Interactive-Quiz-App)
 
----
+## 📫 Let's Connect
 
-## 📫 Get in Touch
-
-- Twitter: [@KungFuRoh](https://x.com/@KungFuRoh)
-
----
-
-## 🌐 Tech Stack
-
-- **Languages**: Python, JavaScript,C++
-- **Tools**: Nginx
-- **Interests**: Web Development, Python Programming
+- 🐦 Twitter: [@KungFuRoh](https://x.com/KungFuRoh)
 
 ---
 
-## ✨ Fun Facts
+⭐ **Feel free to explore my repositories and contribute!** 🚀
 
-- **Hobbies**: Exploring new technologies,Reading,Watching Sports and A Pop-Culture Enthusiast
-- **Favorite Quote**: "You miss 100% of the chances you don't take"
-
----
-
-Let’s connect, collaborate, and create something amazing together! 🚀

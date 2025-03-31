@@ -2,18 +2,42 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a keen interest in frontend development, UI/UX design, and web technologies. I enjoy experimenting with CSS and JavaScript to create unique and engaging user interfaces.
+I'm a first year student pursuing B.Tech,with a keen interest and curiousity to learn  
+new skills.Currently not focused on one thing but many different domains.
 
-- 🎨 Frontend Enthusiast | Specializing in custom UI components
-- 💡 Continuously exploring new CSS techniques and JavaScript frameworks
-- 🎯 Currently building a **repository of UI elements** like special cursors, buttons, and animations
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies Used
 
-- **Frontend:** HTML, CSS (Tailwind, SCSS), JavaScript (React, Vue)
-- **Backend:** Node.js, Express.js
-- **Version Control:** Git, GitHub
-- **Design:** Figma, Adobe XD
+Here are the technologies utilized across my projects:
+### Languages
+- **JavaScript (ES6+)** – Primary language for frontend and backend development  
+- **TypeScript** – Strongly typed JavaScript for better scalability  
+- **HTML & CSS** – Core technologies for web development  
+- **Python** – Used in small utility projects  
+- **Shell Scripting** – For server configurations and automation
+- 
+### Frontend
+- **HTML, CSS, JavaScript** – Core web development technologies  
+- **Tailwind CSS, Bootstrap** – Styling frameworks for modern UI design  
+- **React.js** – For building interactive user interfaces  
+- **Next.js** – Server-side rendering and static site generation framework  
+- **TypeScript** – Enhancing JavaScript with static typing  
+
+### Backend
+- **Node.js, Express.js** – Backend development with REST API support  
+- **NGINX** – Web server for hosting applications  
+- **MongoDB, Firebase, LocalStorage** – Database and storage solutions  
+
+### Tools & Utilities
+- **Git** – Version control system  
+- **ESLint** – Code linting for consistent coding style  
+- **PostCSS** – CSS processing tool  
+- **Morgan & Winston** – Logging utilities for Express applications  
+- **Chart.js, Recharts** – Data visualization libraries for dynamic charts  
+
+This list showcases the stack used across different projects. Feel free to explore the repositories to see these technologies in action! 🚀
+
+
 
 ## 📫 Let's Connect
 

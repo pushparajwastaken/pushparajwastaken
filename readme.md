@@ -2,9 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a first year student pursuing B.Tech,with a keen interest and curiousity to learn  
-new skills.Currently not focused on one thing but many different domains.
-
+I'm a second year student pursuing B.Tech,with a keen interest and curiousity to learn  
+new skills.Currently focused on frontend.
 
 ## 🛠️ Technologies Used
 

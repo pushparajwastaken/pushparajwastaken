@@ -16,7 +16,7 @@ I love experimenting with **CSS, JavaScript, and React** to build unique and int
 - 🌱 Always learning new technologies and frameworks
 - 💻 Building reusable UI components and small projects
 - 🎨 Interested in design, animation, and web interactivity
-- 📫 Reach me at: [KungFuRoh@x.com](mailto:KungFuRoh@x.com)
+
 
 ---
 

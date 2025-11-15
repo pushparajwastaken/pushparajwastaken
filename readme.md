@@ -2,10 +2,6 @@
 
 > Always a student, curious to learn, excited to build stuff, and experimenting with everything!
 
-[![GitHub followers](https://img.shields.io/github/followers/pushparajwastaken?label=Followers&style=flat-square)](https://github.com/pushparajwastaken)
-[![GitHub stars](https://img.shields.io/github/stars/pushparajwastaken?style=social)](https://github.com/pushparajwastaken?tab=stars)
-[![GitHub repos](https://img.shields.io/github/repo-count/pushparajwastaken?style=flat-square)](https://github.com/pushparajwastaken?tab=repositories)
-
 ---
 
 ## About Me

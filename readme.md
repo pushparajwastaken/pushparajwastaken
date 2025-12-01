@@ -45,10 +45,4 @@ Here are the technologies I've used in my repositories:
 
 ---
 
-## 📊 GitHub Stats
-
-![Pushparaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushparajwastaken&show_icons=true&theme=radical)
-
----
-
 ⭐ Feel free to explore my repositories and contribute!

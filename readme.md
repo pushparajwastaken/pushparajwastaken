@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Pushparaj Singh Parmar
 
-> Always a student, curious to learn, excited to build stuff, and experimenting with everything!
+ Always a student, curious to learn, excited to build stuff, and experimenting with everything!
 
 ---
 

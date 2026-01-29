@@ -73,13 +73,6 @@ Some highlights from my repositories:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pushparajwastaken&show_icons=true&theme=radical&include_all_commits=true" />
-</p>
-
----
 
 ## 🤝 Let’s Connect
 

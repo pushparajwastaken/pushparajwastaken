@@ -76,7 +76,6 @@ Some highlights from my repositories:
 
 ## 🤝 Let’s Connect
 
-- GitHub: https://github.com/pushparajwastaken  
 - X (Twitter): https://x.com/KungFuRoh  
 
 ---

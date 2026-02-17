@@ -4,7 +4,7 @@
 
 <h2 align="center">Pushparaj Singh Parmar</h2>
 <p align="center">
-  Frontend Developer • Next.js & TypeScript • Exploring Web3 & AI
+  Frontend Developer • Next.js & TypeScript • Exploring AI
 </p>
 
 ---
@@ -44,10 +44,6 @@ I learn by building — small projects, experiments, and practice repositories �
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 ![REST API](https://img.shields.io/badge/REST-API-blue)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-Google%20AI-blueviolet)
-
-### 🔗 Web3
-![Web3](https://img.shields.io/badge/Web3-Blockchain-black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum)
 
 ### 🧠 Programming & Problem Solving
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)

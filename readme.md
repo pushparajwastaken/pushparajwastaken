@@ -1,36 +1,53 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Hi,%20I'm%20Pushparaj%20👋&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Pushparaj%20Singh%20Parmar&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h2 align="center">Pushparaj Singh Parmar</h2>
+<h3 align="center">
+Frontend Developer • Next.js • TypeScript • Exploring AI & Web3
+</h3>
+
 <p align="center">
-  Frontend Developer • Next.js & TypeScript • Exploring AI
+I build modern web apps, experiment with new technologies, and learn by building real projects.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I’m a **frontend-focused developer** who enjoys building clean, interactive, and scalable web applications.  
-Most of my work revolves around **React, Next.js, and TypeScript**, with hands-on experience in **API integration, Web3 basics, and AI APIs like Gemini**.
+Hi, I'm **Pushparaj Singh Parmar**, a developer focused on building **clean, interactive, and scalable frontend applications**.
 
-I learn by building — small projects, experiments, and practice repositories — and I continuously refine my fundamentals through **DSA and problem solving**.
+My primary stack revolves around:
+
+- **React & Next.js**
+- **TypeScript**
+- **Modern frontend architecture**
+- **API integrations**
+
+I enjoy **learning deeply by building projects**, experimenting with new technologies, and improving my understanding of **software design and problem solving**.
+
+Currently I’m exploring:
+
+- **AI APIs (Gemini)**
+- **Web3 fundamentals**
+- **Better frontend architecture**
+- **DSA & algorithmic thinking**
 
 ---
 
-## 🚀 What I’m Currently Focused On
+# 🚀 Current Focus
 
-- Building projects with **Next.js (App Router)**
-- Writing **type-safe React apps using TypeScript**
-- Integrating **AI APIs (Gemini)**
-- Exploring **Web3 concepts** (wallets, transactions, blockchain basics)
-- Improving code quality, structure, and reusability
+🔹 Building projects with **Next.js (App Router)**  
+🔹 Writing **type-safe React applications using TypeScript**  
+🔹 Creating reusable **frontend UI components**  
+🔹 Integrating **AI APIs like Gemini**  
+🔹 Exploring **Web3 concepts** (wallets, transactions, blockchain basics)  
+🔹 Practicing **Data Structures & Algorithms**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 🌐 Frontend
+## 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
@@ -39,35 +56,87 @@ I learn by building — small projects, experiments, and practice repositories �
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 
-### ⚙️ Backend & APIs
+---
+
+## ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 ![REST API](https://img.shields.io/badge/REST-API-blue)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-Google%20AI-blueviolet)
 
-### 🧠 Programming & Problem Solving
+---
+
+## 🧠 Programming & Problem Solving
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 
-### 🧰 Tools
+---
+
+## 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Work
 
-Some highlights from my repositories:
+Some things you’ll find in my repositories:
 
-- **Next.js Projects** – App Router, routing, layouts, modern React patterns  
-- **Web3 Experiments** – Understanding blockchain, miners, transactions & wallets  
-- **AI Integration** – Using **Gemini API** for intelligent features  
-- **JavaScript Utilities** – Small tools, generators, and UI components  
-- **DSA & Practice** – Java & Python problem solving and algorithm practice  
+### ⚡ Next.js Projects
+- App Router architecture
+- Modern React patterns
+- Layouts, routing, and server/client components
 
-👉 Check the pinned repositories for detailed implementations.
+### 🤖 AI Integration
+- Using **Gemini API**
+- Building AI-powered features
+- Experimenting with LLM integrations
+
+### ⛓ Web3 Experiments
+- Understanding **blockchain mechanics**
+- Wallet concepts
+- Transactions and miners
+
+### 🧩 JavaScript Utilities
+- Small tools
+- UI components
+- Reusable frontend logic
+
+### 🧠 DSA Practice
+- Algorithmic problems
+- Java & Python implementations
+- Problem solving practice
+
+👉 Check my **pinned repositories** for detailed implementations.
 
 ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PushparajSinghParmar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushparajSinghParmar&theme=tokyonight" />
+</p>
+
+---
+
+# 🎯 Developer Philosophy
+
+I believe the best way to learn programming is:
+
+> **Build → Break → Understand → Improve**
+
+Every project I create helps me better understand **how modern software systems actually work.**
+
+---
+
+<p align="center">
+  Always learning • Always building
+</p>
 
 
 ## 🤝 Let’s Connect

@@ -119,7 +119,7 @@ Some things you’ll find in my repositories:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushparajSinghParmar&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushparajwastaken&theme=tokyonight" />
 </p>
 
 ---

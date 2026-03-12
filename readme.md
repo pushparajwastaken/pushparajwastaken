@@ -39,8 +39,6 @@ Currently I’m exploring:
 🔹 Building projects with **Next.js (App Router)**  
 🔹 Writing **type-safe React applications using TypeScript**  
 🔹 Creating reusable **frontend UI components**  
-🔹 Integrating **AI APIs like Gemini**  
-🔹 Exploring **Web3 concepts** (wallets, transactions, blockchain basics)  
 🔹 Practicing **Data Structures & Algorithms**
 
 ---
@@ -87,16 +85,6 @@ Some things you’ll find in my repositories:
 - App Router architecture
 - Modern React patterns
 - Layouts, routing, and server/client components
-
-### 🤖 AI Integration
-- Using **Gemini API**
-- Building AI-powered features
-- Experimenting with LLM integrations
-
-### ⛓ Web3 Experiments
-- Understanding **blockchain mechanics**
-- Wallet concepts
-- Transactions and miners
 
 ### 🧩 JavaScript Utilities
 - Small tools

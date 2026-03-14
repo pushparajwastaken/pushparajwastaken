@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Frontend Developer • Next.js • TypeScript • Exploring AI & Web3
+Frontend Developer • Next.js • TypeScript • Exploring ML
 </h3>
 
 <p align="center">
@@ -27,8 +27,7 @@ I enjoy **learning deeply by building projects**, experimenting with new technol
 
 Currently I’m exploring:
 
-- **AI APIs (Gemini)**
-- **Web3 fundamentals**
+- **Machine Learning**
 - **Better frontend architecture**
 - **DSA & algorithmic thinking**
 

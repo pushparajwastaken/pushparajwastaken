@@ -39,7 +39,7 @@ Currently I’m exploring:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,js,html,css,java"/> </br>
-     <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,tailwind,javascript,typescript,nextjs,java,python,express,mongodb"/>
+     <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,tailwind,typescript,nextjs,java,python,express,mongodb"/>
   </a>
 </p>
 ---
@@ -109,5 +109,4 @@ Every project I create helps me better understand **how modern software systems 
 
 ⭐ If you find something useful here, feel free to explore, fork, or contribute!
 
-[![](https://visitcount.itsvg.in/api?id=Pushparajwastaken&icon=0&color=0)](https://visitcount.itsvg.in)
 

@@ -38,7 +38,7 @@ Currently I’m exploring:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,,cpp,js,,python,html,css,java"/> </br>
+    <img src="https://skillicons.dev/icons?i=git,cpp,js,python,html,css,java"/> </br>
      <img src="https://skillicons.dev/icons?i=nodejs,react,postman,tailwind,typescript,nextjs,express,mongodb"/>
   </a>
 </p>

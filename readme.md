@@ -1,7 +1,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushparajwastaken&theme=default)
 
 <h3 align="center">
-Frontend Developer • Next.js • TypeScript • Exploring ML
+Frontend Developer • Next.js • TypeScript 
 </h3>
 
 <p align="center">
@@ -19,7 +19,6 @@ I enjoy **learning deeply by building projects**, experimenting with new technol
 
 Currently I’m exploring:
 
-- **Machine Learning**
 - **Personal Projects**
 - **DSA & algorithmic thinking**
 

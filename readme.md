@@ -41,6 +41,7 @@ Currently I’m exploring:
      <img src="https://skillicons.dev/icons?i=nodejs,react,postman,tailwind,typescript,nextjs,express,mongodb"/>
   </a>
 </p>
+
 ---
 
 ## 🧰 Tools
